@@ -1,0 +1,232 @@
+{
+	"lmi": {
+		"manufacturer": "Xiaomi",
+		"name": "POCO F2 Pro/Redmi K30 Pro",
+		"release": "2020/02",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 865",
+				"codename": "sm8250"
+			},
+			"display": {
+				"height": 2400,
+				"width": 1080,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					64,
+					5,
+					13,
+					2
+				],
+				"Front": [
+					20
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					10
+				]
+			}
+		}
+	},
+	"platina": {
+		"manufacturer": "Xiaomi",
+		"name": "Xiaomi Mi 8 Lite",
+		"release": "2018/03",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 660",
+				"codename": "sdm660"
+			},
+			"display": {
+				"height": 2280,
+				"width": 1080,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					12,
+					5
+				],
+				"Front": [
+					24
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					10
+				]
+			}
+		}
+	},
+	"vince": {
+		"manufacturer": "Xiaomi",
+		"name": "Xiaomi Redmi 5 Plus",
+		"release": "2018/01",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 625",
+				"codename": "msm8953"
+			},
+			"display": {
+				"height": 2160,
+				"width": 1080,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					13
+				],
+				"Front": [
+					5
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					10
+				]
+			}
+		}
+	},
+	"whyred": {
+		"manufacturer": "Xiaomi",
+		"name": "Xiaomi Redmi Note 5",
+		"release": "2018/01",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 636",
+				"codename": "sdm636"
+			},
+			"display": {
+				"height": 2160,
+				"width": 1080,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					12,
+					5
+				],
+				"Front": [
+					13
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "official",
+				"self-hosted": false,
+				"redirect": "https://wiki.lineageos.org/devices/whyred/",
+				"versions": [
+					10
+				]
+			},
+			"ProjectFluid": {
+				"type": "official",
+				"self-hosted": false,
+				"redirect": "https://fluidos.me/downloads.html",
+				"versions": [
+					11,
+					10
+				]
+			},
+			"RevengeOS": {
+				"type": "official",
+				"self-hosted": false,
+				"redirect": "https://download.revengeos.com/download/whyred/",
+				"versions": [
+					11,
+					10
+				]
+			}
+		}
+	},
+	"X00H": {
+		"manufacturer": "Asus",
+		"name": "Asus Zenfone 4 Max",
+		"release": "2017/03",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 425/430",
+				"codename": "msm8917/msm8937"
+			},
+			"display": {
+				"height": 1280,
+				"width": 720,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					13,
+					5
+				],
+				"Front": [
+					8
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					10
+				]
+			}
+		}
+	},
+	"X00I": {
+		"manufacturer": "Asus",
+		"name": "Asus Zenfone 4 Max",
+		"release": "2017/03",
+		"specs": {
+			"cpu": {
+				"vendor": "Qualcomm",
+				"model": "Snapdragon 425/430",
+				"codename": "msm8917/msm8937"
+			},
+			"display": {
+				"height": 1280,
+				"width": 720,
+				"hz": 60
+			},
+			"camera": {
+				"Rear": [
+					13,
+					5
+				],
+				"Front": [
+					8
+				]
+			}
+		},
+		"projects": {
+			"LineageOS": {
+				"type": "unofficial",
+				"self-hosted": true,
+				"versions": [
+					10
+				]
+			}
+		}
+	}
+}
