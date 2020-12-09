@@ -189,6 +189,7 @@
 				"type": "unofficial",
 				"self-hosted": true,
 				"versions": [
+					11,
 					10
 				]
 			}
@@ -224,6 +225,7 @@
 				"type": "unofficial",
 				"self-hosted": true,
 				"versions": [
+					11,
 					10
 				]
 			}
