@@ -31,6 +31,7 @@
 				"type": "unofficial",
 				"self-hosted": true,
 				"versions": [
+					11,
 					10
 				]
 			}
