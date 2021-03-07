@@ -141,24 +141,6 @@
 				"versions": [
 					10
 				]
-			},
-			"ProjectFluid": {
-				"type": "official",
-				"self-hosted": false,
-				"redirect": "https://fluidos.me/downloads.html",
-				"versions": [
-					11,
-					10
-				]
-			},
-			"RevengeOS": {
-				"type": "official",
-				"self-hosted": false,
-				"redirect": "https://download.revengeos.com/download/whyred/",
-				"versions": [
-					11,
-					10
-				]
 			}
 		}
 	},
